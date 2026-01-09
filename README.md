@@ -57,6 +57,7 @@ Fornecer uma visão geral e interativa das vendas, permitindo responder pergunta
 
 
 ## 🗂️ Estrutura do Repositório
+- `README.md` – Documentação do projeto
 - `/images` – Prints do dashboard
 
 
