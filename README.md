@@ -53,12 +53,12 @@ Fornecer uma visão geral e interativa das vendas, permitindo responder pergunta
 
 ## 📎 Observações Técnicas
 - O dashboard foi publicado na versão web do Power BI. [Acessar dashboard publicado (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiNDhmZjFmZmMtMjU5Zi00YWE1LTlmZmYtZGJmNzU1Yzk5ZmQ0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+- Devido a limitações de tamanho do GitHub, os arquivos `.pbix` e a base completa em Excel não estão versionados neste repositório.
 
 
 ## 🗂️ Estrutura do Repositório
-- `Sales_Overview.pbix` – Arquivo do dashboard
 - `/images` – Prints do dashboard
-- `/data` – Base de dados utilizada no projeto
+
 
 
 ## 🚀 Próximos Passos
