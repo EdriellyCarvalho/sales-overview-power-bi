@@ -53,6 +53,7 @@ Fornecer uma visão geral e interativa das vendas, permitindo responder pergunta
 
 ## 📎 Observações Técnicas
 - O dashboard foi publicado na versão web do Power BI. [Acessar dashboard publicado (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiNDhmZjFmZmMtMjU5Zi00YWE1LTlmZmYtZGJmNzU1Yzk5ZmQ0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+- O visual de **mapa** apresenta limitação de exibição na versão web, funcionando corretamente no Power BI Desktop.
 - Devido a limitações de tamanho do GitHub, os arquivos `.pbix` e a base completa em Excel não estão versionados neste repositório.
 
 
